@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anandkumar15446@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uvNtVMRpp3kd11DQbAG1Lj2USbIvIbq-/view?usp=drive_link](https://drive.google.com/file/d/1uvNtVMRpp3kd11DQbAG1Lj2USbIvIbq-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uvNtVMRpp3kd11DQbAG1Lj2USbIvIbq-/view?usp=drive_link](https://drive.google.com/file/d/1uvNtVMRpp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
