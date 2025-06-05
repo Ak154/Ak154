@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak154&label=Profile%20views&color=0e75b6&style=flat" alt="ak154" /> </p>
 
-- 🔭 I’m currently working on [Weather WebApplication](https://github.com/Ak154/weather-web)
+- 🔭 I’m currently working on [CORS Data Download Portal](https://github.com/Ak154/project-name)
 
-- 🌱 I’m currently learning **ExpressJs, NodeJs, Redux**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes, GitHub Actions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ak154/OIBSIP/tree/Portfolio](https://github.com/Ak154/OIBSIP/tree/Portfolio)
-
-- 💬 Ask me about **ReactJs, JavaScript**
+- 💬 Ask me about **Nodejs, ExpressJs, ReactJs, JavaScript, Docker, Kubernetes, AWS**
 
 - 📫 How to reach me **anandkumar15446@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uvNtVMRpp3kd11DQbAG1Lj2USbIvIbq-/view?usp=drive_link](https://drive.google.com/file/d/1uvNtVMRpp)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EuvqAhDjcRbh0UVtPusFdewXUuN3Oo7_/view?usp=drive_link](https://drive.google.com/file/d/1EuvqAhDjcRbh0UVtPusFdewXUuN3Oo7_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
