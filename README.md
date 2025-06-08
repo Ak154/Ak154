@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak154&label=Profile%20views&color=0e75b6&style=flat" alt="ak154" /> </p>
 
-- 🔭 I’m currently working on [CORS Data Download Portal](https://github.com/Ak154/project-name)
+- 🔭 Currently, I’m working on [CORS Data Download Portal](https://github.com/Ak154/project-name)
 
-- 🌱 I’m currently learning **AWS, Docker, Kubernetes, GitHub Actions**
+- 🌱 "I'm currently exploring AWS, Docker, Kubernetes, and GitHub Actions."
 
-- 💬 Ask me about **Nodejs, ExpressJs, ReactJs, JavaScript, Docker, Kubernetes, AWS**
+- 💬 Ask me about **Nodejs, ExpressJs, ReactJs, JavaScript, Docker, Kubernetes, and AWS**
 
 - 📫 How to reach me **anandkumar15446@gmail.com**
 
