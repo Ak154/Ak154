@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak154&label=Profile%20views&color=0e75b6&style=flat" alt="ak154" /> </p>
 
-- 🔭 Currently, I’m working on [CORS Data Download Portal](https://github.com/Ak154/project-name)
+- 🔭 Currently, I’m working on [CORS Data Download Portal](https://github.com/Ak154/cors-data-download-portal)
 
 - 🌱 "I'm currently exploring AWS, Docker, Kubernetes, and GitHub Actions."
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anandkumar15446@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EuvqAhDjcRbh0UVtPusFdewXUuN3Oo7_/view?usp=drive_link](https://drive.google.com/file/d/1EuvqAhDjcRbh0UVtPusFdewXUuN3Oo7_/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1O7J8Nb12u336y1jYBEzID2LaQXCpSpOv/view?usp=drive_link](https://drive.google.com/file/d/1O7J8Nb12u336y1jYBEzID2LaQXCpSpOv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
