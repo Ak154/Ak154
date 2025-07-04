@@ -9,7 +9,7 @@
 
 - 🌱 "I'm currently exploring AWS, Docker, Kubernetes, and GitHub Actions."
 
-- 💬 Ask me about **Nodejs, ExpressJs, ReactJs, JavaScript, Docker, Kubernetes, and AWS**
+- 💬 Ask me about **Nodejs, ExpressJs, MongoDB, MySQL, ReactJs, JavaScript, Nginx, Docker, Kubernetes, and AWS**
 
 - 📫 How to reach me **anandkumar15446@gmail.com**
 
