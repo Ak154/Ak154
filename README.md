@@ -75,13 +75,13 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak154&show_icons=true&theme=tokyonight" alt="Anand Kumar GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ak154&show_icons=true&theme=tokyonight" alt="Anand Kumar GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak154&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak154&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ak154&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ak154&theme=tokyonight" alt="GitHub Streak" />
 </p>
