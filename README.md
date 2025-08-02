@@ -1,5 +1,5 @@
 # Hello, I am Anand Kumar.
-                           A passionate Software developer from India <br>
+                           A passionate Software developer from India
 I’m currently working on CORS Data Download Portal<br>
 💬 Ask me about Nodejs, ExpressJs, ReactJs, JavaScript, Docker, Kubernetes, AWS, Nginx <br>
 📄 Know about my experiences ([https://drive.google.com/file/d/1oeCTDrxVhSBJRy8sHPXzNwx3TVaD30x3/view?usp=sharing])
