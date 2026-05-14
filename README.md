@@ -1,8 +1,8 @@
 # Hello, I am Anand Kumar
  ##                          A passionate Software developer
-I’m currently working on CORS Data Download Portal<br>
-💬 Ask me about Nodejs, ExpressJs, ReactJs, JavaScript, Docker, Kubernetes, AWS, Nginx <br>
-📄 Know about my experiences ([https://drive.google.com/file/d/1oeCTDrxVhSBJRy8sHPXzNwx3TVaD30x3/view?usp=sharing])
+Currently, I’m working on Apply Loan([https://applyloan.digicredit.in]) & CRM ([https://crmadmin.digicredit.in])<br>
+💬 Ask me about Nodejs, ExpressJs, Typescript, Next.js, PostgreSQL, ReactJs, JavaScript, Docker, Kubernetes, AWS, Nginx, Git, GitHub <br>
+📄 Know about my experiences ([https://drive.google.com/file/d/1MBSf4dD5C-XkDR2rlUYrruGDjJhXk8qM/view?usp=sharing])
 
 
 ## 🌐 Socials:
