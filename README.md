@@ -1,4 +1,4 @@
-# Hi, I'm Anand Kumar 👋
+# Hi, I'm Anand Kumar
 
 ## Software Development Engineer | Full-Stack Developer | Backend & Cloud Enthusiast
 
@@ -87,7 +87,7 @@ Git, GitHub, Postman, Linux
 
 ## 🌐 Connect with Me
 
-Li[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-kumar-002293230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandkumar15446@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-kumar-002293230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandkumar15446@gmail.com)
 
 ---
 
